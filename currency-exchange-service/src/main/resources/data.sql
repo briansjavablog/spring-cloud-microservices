@@ -1,0 +1,2 @@
+insert into exchange_value(id, from_currency, to_currency, conversion_rate, port) values(1001, 'EUR', 'STG', 0.87, 0);
+insert into exchange_value(id, from_currency, to_currency, conversion_rate, port) values(1002, 'STG', 'EUR', 1.13, 0);
